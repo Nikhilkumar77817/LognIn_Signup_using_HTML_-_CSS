@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>resume</title>
+</head>
+<body>
+    <center>
+        <h1><u>MY RESUME</u></h1>
+    </center>
+    <h1>NIKHIL KUMAR</h1>
+    <p> <b>Student of Bachelour of technolgy </b> <br> (computer science and engineering )</p>
+    <img src="images.jfif" alt="" height="150px" width="150px" alignment="left">
+    <p> <b>Address:</b>Baheri,bareilly</p>
+    <p><b>email :</b> nikhilkumar123@gmail.com</p>
+    <p><b>contact no.</b> 123xxxxx9</p>
+    <hr>
+
+    <h2><u>CAREER OBJECTIVE</u></h2>
+    <p>Seeking opportunity, ready to use my software skills, and innovative ideas and knowledge skills <br>technical skills to give our best for company growth and organization.</p>
+    <hr>
+
+    <h2><u>ACADEMIC QUALIFICATION</u></h2>
+    <table border="5" width="800">
+        <tr>
+            <th>Qualification</th>
+            <th>Board/University</th>
+            <th>School/College</th>
+            <th>Year of passing</th>
+        </tr>
+    <tr>
+        <th>10th</th>
+        <th>CBSE</th>
+        <th>S P S</th>
+        <th>2019</th>
+    </tr>
+    <tr>
+        <th>12th</th>
+        <th>CBSE</th>
+        <th>S P S</th>
+        <th>2021</th>
+    </tr>
+    <tr>
+        <th>Btech</th>
+        <th>Invertis University</th>
+        <th>Invertis University</th>
+        <th>2026</th>
+    </tr>
+    </table>
+
+    <hr>
+    
+    <h2><u>STRENGTH</u></h2>
+    
+    <ul>
+    
+    <li>Good communication and inter-personal skill</li>
+    <li>Creative and innovative thinking</li>
+    <li>Time management and good teamwork ability</li>
+    <li>Self motivated and positive attitude</li>
+
+    </ul>
+    <hr>
+
+    <h2><u>TECHNICALS SKILLS</u></h2>
+    <ul>
+    <li>C,python,java</li>
+    <li>HTML,CSS,JavaScript</li>
+    <li>Powerpoint,Word,excel</li>
+    <li>Iiot</li>
+
+    </ul>
+    <hr>
+<h2><u>LANGUAGES</u></h2>
+<ul>
+<li>English</li>
+<li>Hindi</li>
+<li>Punjabi</li>
+</ul>
+<hr>
+<h2><u>HOBBIES</u></h2>
+
+
+    <ul>
+    <li>Listening songs</li>
+    <li>Cooking</li>
+    <li>Teaching</li>
+    </ul>
+    
+</body>
+</html>
